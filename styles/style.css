@@ -1,0 +1,64 @@
+body
+{
+    background-color: black;
+    display: block;
+    overflow: auto;
+}
+.main-div-homepg
+{
+  margin-left: 10%;
+  margin-right: 10%;
+  justify-content: center;
+  align-items: center;
+  display: block;
+}
+.logo-img-homepg
+{
+    width: 100%;
+}
+.resume-review-button
+{
+    display: flex; 
+    justify-content: center;
+    text-align: center;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+    margin:0 auto;
+}
+.domain-button
+{
+    border-color: coral;
+    padding: 2%;
+    background-color: black;
+    font-size: 2em;
+    color: white;
+}
+.nav-bar
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 0%;
+    /* background-color: coral; */
+}
+.nav-button
+{
+    margin: 0.1%;
+    border-color: black;
+    border-width: 1px;
+    padding: 1%;
+    background-color: black;
+    font-size: 1.2em;
+    color: white;
+}
+.nav-button:hover
+{
+    border-color: white;
+}
+.services-text
+{
+    font-size: 5em;
+    color: white;
+    text-align: center;
+}
