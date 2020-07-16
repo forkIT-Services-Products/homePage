@@ -1,0 +1,44 @@
+.join-us-main
+{
+    color: white;
+}
+.join-us-position
+{
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    margin: 2%;
+    background-color: #303030;
+}
+.join-us-position-title
+{
+    font-size: 2em;
+    margin-left: 5%;
+}
+.join-us-position-description
+{
+    font-size: 1.5em;
+    margin-left: 6%;
+}
+.join-main-title
+{
+    font-size: 2em;
+    text-align: center;
+    margin-top: 1%;
+    background-color: #303030;
+    padding: 1%;
+}
+.join-us-apply
+{
+    justify-content: right;
+    text-align: right;
+}
+.join-us-apply-button
+{
+    width: 20%;
+    border-color: coral;
+    padding: 1%;
+    background-color: black;
+    font-size: 1.2em;
+    color: white;
+}
