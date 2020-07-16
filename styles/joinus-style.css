@@ -4,9 +4,9 @@
 }
 .join-us-position
 {
-    border-color: white;
+    border-color: white transparent transparent;
     border-style: solid;
-    border-width: 1px;
+    border-width: 0.1px;
     margin: 2%;
     background-color: #303030;
 }

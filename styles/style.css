@@ -51,14 +51,9 @@ body
     background-color: black;
     font-size: 1.2em;
     color: white;
+    width: fit-content;
 }
 .nav-button:hover
 {
     border-color: white;
-}
-.services-text
-{
-    font-size: 5em;
-    color: white;
-    text-align: center;
 }
